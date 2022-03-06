@@ -1,0 +1,111 @@
+*{
+    padding: 0px;
+ margin: 0px;
+
+ font-family: 'Work Sans', sans-serif;
+ 
+}
+body{
+   background-color: lightgray;
+}
+
+
+nav{
+    background-color: #2874f0;
+    width: 100vw;
+    height: 9vh;
+}
+section{
+    text-align: center;
+    padding-top: 0.5rem;
+}
+img{
+    width: 80px;
+}
+span{
+
+    padding: 1rem;
+}
+.ex{
+    float: left;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+   
+}
+.logo{
+   margin-left: 1rem;
+}
+#login{
+    color: #2874f0;
+}
+#search{
+    width:30rem;
+     height: 2.5rem;
+     background-color: white;
+     border:2px solid white ;
+     border-radius: 0.1rem;
+    font-weight:lighter;
+}
+/* button{
+    color: blue;
+    width:7rem;
+    height: 2rem;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 0.1rem;
+    font-family:  Roboto,Arial,sans-serif;
+    font-weight: bolder;
+} */
+.list{
+    background-color:#fff;
+    width: 100vw;
+    height: 5vh;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+    
+}
+ul{
+    padding-top: 0.3rem;
+}
+li{
+    
+    display: inline;
+    padding: 1.2rem;
+}
+
+ h1{
+    padding-top: 30px;
+    font-size: 1rem;
+
+}
+.one{
+    margin-top:-30%;
+}
+#info{
+    background-color: #fff;
+}
+
+#head{
+    background-color:#fff;
+    width: 20%;
+    padding: 2px;
+    margin-left:20px;
+}
+
+h2{
+    padding: 20px;
+}
+aside{
+    float: right;
+   background-color: #fff;
+   width: 70%;
+   height: 70vh;
+   margin-right: 70px;
+   margin-top: -3.5%;
+
+
+}
+
+
