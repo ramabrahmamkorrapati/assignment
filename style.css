@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+main{
+    text-align: center;
+}
+table{
+    margin-left: 35%;
+}
+
+
+header{
+    text-align: center;
+    padding: 20px;
+    background-color:aqua ;
+    width: 100vw;
+    height: 4vh;
+    position: fixed;
+}
+a:hover{
+    color: yellow;
+}
+a:link{
+    color: yellowgreen;
+}
+#one{
+    float: left;
+}
+a{
+    text-decoration: none;
+    padding: 40px;
+}
+#two{
+   float: right;
+}
+
+th,td{
+  padding: 10px;
+   border: 1px  solid black;
+}
+h3,h2{
+    padding: 20px;
+}
+ol{
+    list-style-type: lower-roman;
+}
